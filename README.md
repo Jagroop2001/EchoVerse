@@ -46,12 +46,6 @@ Check out the live demo here: [EchoVerse Live](https://EchoVerse.vercel.app)
 ### 📤 **Upload Audio Page**  
 - Upload or record live audio, select a language, and process it with LEMUR API.  
 
-### 📜 **Results Page**  
-- Display transcription, translation, speaker diarization, and keyword insights.  
-
-### 📊 **Analytics Page**  
-- Visualize sentiment analysis, keyword detection, and audio summaries.  
-
 ### ℹ️ **About Page**  
 - Learn more about the app and its technology.  
 
